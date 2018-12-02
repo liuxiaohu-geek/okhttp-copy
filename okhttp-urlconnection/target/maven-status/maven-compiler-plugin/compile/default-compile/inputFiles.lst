@@ -1,0 +1,12 @@
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/internal/JavaNetHeaders.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/JavaNetCookieJar.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/internal/URLFilter.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/internal/huc/BufferedRequestBody.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/OkUrlFactory.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/package-info.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/internal/huc/DelegatingHttpsURLConnection.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/internal/huc/OutputStreamRequestBody.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/internal/huc/OkHttpsURLConnection.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/internal/huc/OkHttpURLConnection.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/internal/huc/StreamedRequestBody.java
+/home/geek/IdeaProjects/okhttp-parent-3.12.0/okhttp-urlconnection/src/main/java/okhttp3/JavaNetAuthenticator.java

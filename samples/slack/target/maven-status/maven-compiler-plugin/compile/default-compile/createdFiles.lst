@@ -1,0 +1,9 @@
+okhttp3/slack/SlackClient.class
+okhttp3/slack/SlackApi.class
+okhttp3/slack/OAuthSessionFactory$Listener.class
+okhttp3/slack/OAuthSession.class
+okhttp3/slack/RtmSession.class
+okhttp3/slack/OAuthSessionFactory.class
+okhttp3/slack/SlackClient$1.class
+okhttp3/slack/RtmStartResponse.class
+okhttp3/slack/SlackApi$SlackJsonAdapters.class
